@@ -6,8 +6,8 @@ on the internet, but never got to the point of putting myself out until now as a
 
 Interests?
 - My overall interest is in the development between hardware and software systems. I find 
-passion in various fields in programming and engineering. I can sit and program for hours
-or work on a machine with my hands, both give me the biggest pleassure of happiness. 
+passion in various fields in programming and engineering. I find enjoyment in programming
+and building hardware/firmware-based systems.
 
 Why now?
 - I plan on sharing what I've done over the years on here. I'll salvage and prepare some
